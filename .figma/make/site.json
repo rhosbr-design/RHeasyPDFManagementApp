@@ -1,0 +1,12 @@
+{
+  "title": "RHeasy - Envio de Arquivos Digitais",
+  "description": "Uma plataforma completa para envio, controle e assinatura digital de documentos de colaboradores, desenvolvida para tornar os processos do Departamento Pessoal, Recursos Humanos e Administração mais rápidos, seguros e organizados.",
+  "language": "PT-BR",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
